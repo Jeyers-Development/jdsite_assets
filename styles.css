@@ -1,6 +1,6 @@
 body {
   background-color: #141414;
-  background-image: url('../res/bkg.png');
+  background-image: url('https://github.com/Jeyers-Development/jdsite_assets/blob/main/bkg.png?raw=true');
   background-repeat: repeat;
 }
 h1 {
@@ -34,4 +34,5 @@ button:hover {
 
 button:active {
   background-color: #382819;
+
 }
